@@ -4,12 +4,21 @@
 - 🔭 I’m currently working at [Vonnue]
 
 - 💬 “Learning to code is learning to create and innovate.”
-<br>
+<hr>
+<div>
+  <a href="https://github.com/marymetilda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marymetilda&layout=compact&langs_count=7&theme=light"/>
+</div>
+<hr>
+
+![marymetilda](https://github-readme-streak-stats.herokuapp.com/?user=marymetilda&theme=light)
+<hr>
 <!-- <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</p> -->
 
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/mary-metilda-9961aa279/)
+
 
 <h2 align="left">Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p>
